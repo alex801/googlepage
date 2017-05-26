@@ -1,0 +1,20 @@
+.mainblock{
+	border: 2px solid black;
+}
+.block1{
+	width: 500px;
+	
+	position: absolute;
+	top: 40%;
+	left: 40%;
+}
+
+input[type="text"]{
+	width: 100%;
+	box-sizing: border-box;
+	padding: 10px;
+}
+.image {
+	position: relative;
+	left: 20%;
+}
